@@ -7,6 +7,6 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
-    <toc-element topic="部署配置NewBeeMall的小小教程.md"/>
+    <toc-element topic="1-部署配置NewBeeMall的小小教程.md"/>
     <toc-element topic="2-看看代码.md"/>
 </instance-profile>
